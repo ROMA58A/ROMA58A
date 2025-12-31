@@ -1,15 +1,15 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0077B5&text=Brandon%20Rodríguez&fontSize=70&animation=fadeIn&fontAlignY=35" />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0077B5&text=Brandon%20Rodríguez&fontSize=70&animation=fadeIn&fontAlignY=35&subtext=Java%20|%20Node.js%20|%20Full%20Stack%20Developer&subfontSize=20" />
 </div>
 
 <h3 align="center">
-  Software Developer | Java & Node.js Specialist
+  Software Developer & Cloud Enthusiast
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Spring+Boot+Expert;Node.js+%26+Cloud+Enthusiast;Building+Café+Albania+Platform&font=Fira+Code&center=true&width=440&height=45&color=0077B5">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Spring+Boot+Developer;Node.js+Backend+Specialist;Building+Café+Albania+Platform;Cybersecurity+Student&font=Fira+Code&center=true&width=450&height=45&color=0077B5">
   </a>
 </p>
 
@@ -19,90 +19,73 @@
 
 ---
 
-### 🚀 Sobre Mí
-- 👨‍💻 Actualmente en **Cygnus TI** desarrollando la plataforma **Café Albania – Ruta de las Flores**.
-- 🏗️ Especialista en **APIs REST**, automatización de procesos y sistemas de facturación.
-- 🎓 Estudiante de **Ingeniería en Sistemas** con enfoque en escalabilidad y seguridad.
-- 🛡️ Apasionado por la **Ciberseguridad** y las infraestructuras seguras.
+## 🚀 Perfil Profesional
+Desarrollador de software con experiencia sólida en **Java**, **Node.js** y arquitectura de **APIs REST**. Actualmente impulsando la transformación digital en **Cygnus TI** mediante el desarrollo de módulos críticos para la plataforma turística **Café Albania**.
 
----
-
-## 🛠️ Stack Tecnológico
-
-#### 🔧 Lenguajes & Backend
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🖥️ Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-#### 🔧 Herramientas & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🔭 **Enfoque Actual:** Backend escalable y automatización de procesos internos.
+- 🏗️ **Experiencia Clave:** Sistemas de facturación electrónica e integraciones SFTP.
+- 🛡️ **Interés Secundario:** Gestión de amenazas y redes seguras (Ciberseguridad).
+- 🌐 **Web Personal:** [soybrad.tech](https://soybrad.tech)
 
 ---
 
 ## 💼 Experiencia Profesional
 
-> **Cygnus TI | Desarrollador Java & Node.js** *(2023 - Actualidad)*
-> * Construcción de APIs y módulos para la plataforma Café Albania.
-> * Automatización de transferencias SFTP e integración de sistemas.
+### **Cygnus TI | Desarrollador Java, Node.js & Web**
+*Dic 2023 – Actualidad*
+* Desarrollo integral de la plataforma **Café Albania – Ruta de las Flores**.
+* Creación de **APIs REST** con Spring Boot y automatización de procesos internos.
+* Diseño de paneles administrativos y optimización de consultas SQL para alto rendimiento.
 
-> **Mega Comercio | Programador Java** *(Jun 2023 - Nov 2023)*
-> * Desarrollo de módulos clave para facturación electrónica y optimización SQL.
+### **Mega Comercio | Programador Java**
+*Jun 2023 – Nov 2023*
+* Desarrollo de módulos de **Facturación Electrónica**.
+* Mantenimiento correctivo y optimización de procesos de bases de datos.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+| **Backend** | **Frontend** | **Herramientas & Seguridad** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Shield](https://img.shields.io/badge/Cybersecurity-Critical-red?style=flat-square) |
+
+---
+
+## 🏆 Certificaciones & Educación
+* 🎓 **Ingeniería en Sistemas** (En curso) - *Univ. Pedagógica de El Salvador*
+* 📜 **Oracle Java Foundations** - *Oracle Academy*
+* 📜 **Back End & APIs** - *FreeCodeCamp (Node.js)*
+* 📜 **Postman API Student Expert** - *Postman Program*
+* 🛡️ **Ciberseguridad** (Análisis de ataques y redes seguras)
 
 ---
 
 ## 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROMA58A&theme=algolia&show_icons=true&count_private=true&bg_color=0d1117&border_color=0077B5&icon_color=00b4d8" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROMA58A&show_icons=true&layout=compact&theme=algolia&bg_color=0d1117&border_color=0077B5" width="42%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ROMA58A&theme=algolia&show_icons=true&count_private=true&bg_color=0d1117&border_color=0077B5" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROMA58A&show_icons=true&layout=compact&theme=algolia&bg_color=0d1117&border_color=0077B5" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROMA58A&theme=github_dark" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROMA58A&theme=react-dark&bg_color=0d1117&color=0077B5" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROMA58A&theme=react-dark&bg_color=0d1117&color=0077B5" width="100%" />
 </div>
 
 ---
 
-## 🏆 Títulos & Certificaciones
-- 📜 **Oracle Java Foundations**
-- 🛰️ **Postman API Student Expert**
-- 🌐 **FreeCodeCamp Back End & APIs**
-- 🛡️ **Cybersecurity Specialist (Ciberseguridad UPED)**
-
----
-
-## 🔗 Contacto
-
+## 🤝 Contacto & Redes
 <div align="center">
 <a href="mailto:Brandon.rodriguez60677@uped.edu.sv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/brand-ayala"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://soybrad.tech"><img src="https://img.shields.io/badge/Website-soybrad.tech-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/brand-ayala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="tel:+50374022948"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://soybrad.tech"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 <br>
 
-<div align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+</p>
 
-<h6 align="center">Desarrollado con ❤️ por Brandon Rodríguez | 2025</h6>
+<h6 align="center">Last updated: 2025 | Developed by Brandon Rodríguez</h6>
